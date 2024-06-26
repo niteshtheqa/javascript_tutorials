@@ -1,4 +1,4 @@
-function is_eleigible_for_vote(age) {
+function is_eligible_for_vote(age) {
 
     if (age > 18) {
         console.log("Your age is: " + age)
